@@ -1,0 +1,213 @@
+
+/*=================================================================
+  @media screen 1440px
+==================================================================*/
+
+
+@media screen and (min-width: 1440px){
+   
+  
+
+
+}
+
+/*=================================================================
+  @media screen 1199px
+==================================================================*/
+
+
+@media screen and (max-width: 1199px){
+   
+  
+
+}
+
+
+/*=================================================================
+  @media screen 1220px
+==================================================================*/
+
+
+@media screen and (min-width: 1220px){
+  
+
+
+
+
+}
+
+
+/*=================================================================
+  @media screen 1024px
+==================================================================*/
+
+
+@media screen and (max-width: 1024px){
+
+  .__shecodeformp {
+    left: 37%;
+  }
+
+  
+
+}
+
+
+/*=================================================================
+  @media screen 992px
+==================================================================*/
+
+
+@media screen and (max-width: 992px){
+    
+}
+
+
+/*=================================================================
+  @media screen 800px
+==================================================================*/
+
+@media screen and (max-width: 800px){
+
+	.__shecodelink {
+    padding: 10px 4px;
+  }
+  .__shecodeafri {
+    font-size: 40px;
+  }
+
+  .__shecodeafri1 {
+    font-family: Raleway-Black;
+    font-size: 19px;
+  }
+
+  .__shecodetestimcard {
+    padding: 8px;
+  }
+
+  .__shecodeformp {
+    left: 32%;
+  }
+  
+
+
+}
+
+/*=================================================================
+  @media screen 767px
+==================================================================*/
+
+@media screen and (max-width: 767px){
+
+  .__shecodelink {
+    text-align: center;
+  }
+
+  .__shecodeafri {
+    margin-top: 10%;
+  }
+
+  .__shecodefounder {
+    border-radius: 0;
+    width: 100%;
+    height: 100%;
+    margin-top: 4%;
+  }
+
+  .__shecodefounderp {
+    margin-top: 5%;
+  }
+
+  .__shecodetestimcard {
+    margin-top: 2%;
+  }
+  
+}
+
+
+/*=================================================================
+  @media screen 560px
+==================================================================*/
+
+
+  @media screen and (max-width: 560px){
+
+  	.__shecodelink {
+      text-align: center;
+    }
+
+    .__shecodeafri {
+      font-size: 25px;
+      margin-top: 25%;
+    }
+
+    .__shecodeafri1 {
+      font-size: 15px;
+    }
+
+    .__shecodefounderp {
+      margin-top: 11%;
+    }
+
+    .__shecodetestimcard {
+      padding: 23px;
+      margin-top: 9%;
+    }
+
+    .__shecodeformcard {
+      padding: 35px 7px 30px;
+    }
+
+    .__shecodeformp {
+      margin-top: -54px;
+      left: 9%;
+    }
+
+    .__shecodeaboutimg {
+      min-height: 53vh;
+    }
+
+    .__shecodevalab {
+      width: 300px;
+      height: 300px;
+    }
+
+    .__shecodevaldiv {
+      width: 110px;
+    }
+
+    .__shecodevaldiv img {
+      width: 50px;
+    }
+
+    .__shecodevaldiv1 {
+      width: 110px;
+      margin-left: 59%;
+    }
+
+    .__shecodevaldiv1 img {
+      width: 50px;
+    }
+
+    .__shecodevaldiv2 {
+      width: 110px;
+      margin-top: 61%;
+    }
+
+    .__shecodevaldiv2 img {
+      width: 50px;
+    }
+
+    .__shecodevaldiv3 {
+      width: 110px;
+      margin-top: 60%;
+    margin-left: 60%;
+    }
+
+    .__shecodevaldiv3 img {
+      width: 50px;
+    }
+
+    
+}
+
