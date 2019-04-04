@@ -256,7 +256,7 @@
 
     .__shecodevaldiv1 {
       width: 110px;
-      margin-left: 59%;
+      margin-left: 59% !important;
     }
 
     .__shecodevaldiv1 img {
@@ -265,7 +265,7 @@
 
     .__shecodevaldiv2 {
       width: 110px;
-      margin-top: 61%;
+      margin-top: 61% !important;
     }
 
     .__shecodevaldiv2 img {
@@ -274,8 +274,8 @@
 
     .__shecodevaldiv3 {
       width: 110px;
-      margin-top: 60%;
-    margin-left: 60%;
+      margin-top: 60% !important;
+    margin-left: 60% !important;
     }
 
     .__shecodevaldiv3 img {
@@ -303,4 +303,25 @@
 
     
 }
+
+
+/*=================================================================
+  @media screen 480px
+==================================================================*/
+
+
+ /* @media screen and (min-width: 480px){
+    .__shecodevaldiv1 {
+      margin-left: 40%;
+    }
+
+    .__shecodevaldiv2 {
+      margin-top: 40%;
+    }
+
+    .__shecodevaldiv3 {
+      margin-top: 40%;
+      margin-left: 40%;
+    }
+  }*/
 
